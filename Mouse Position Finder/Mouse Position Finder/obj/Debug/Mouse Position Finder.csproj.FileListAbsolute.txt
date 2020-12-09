@@ -1,0 +1,10 @@
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\bin\Debug\Mouse Position Finder.exe.config
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\bin\Debug\Mouse Position Finder.exe
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\bin\Debug\Mouse Position Finder.pdb
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse Position Finder.csprojAssemblyReference.cache
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse_Position_Finder.Form1.resources
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse_Position_Finder.Properties.Resources.resources
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse Position Finder.csproj.GenerateResource.cache
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse Position Finder.csproj.CoreCompileInputs.cache
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse Position Finder.exe
+C:\Users\Hamed-PC\source\repos\Mouse Position Finder\Mouse Position Finder\obj\Debug\Mouse Position Finder.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse Position Finder", "Mouse Position Finder\Mouse Position Finder.csproj", "{324E5663-1C86-4AE5-B3FB-E04F1432CEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324E5663-1C86-4AE5-B3FB-E04F1432CEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324E5663-1C86-4AE5-B3FB-E04F1432CEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324E5663-1C86-4AE5-B3FB-E04F1432CEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324E5663-1C86-4AE5-B3FB-E04F1432CEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9589F5D-95A6-4DEA-A028-822C3ADDE03C}
+	EndGlobalSection
+EndGlobal
